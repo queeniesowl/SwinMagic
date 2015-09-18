@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Swin-Adventure\Swin-Adventure.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swin-Adventure\TestLocation.cs">
+    <Files>
+      <File FileName="Swin-Adventure\Player.cs" Line="11" Column="76" />
+      <File FileName="Swin-Adventure\Locations.cs" Line="16" Column="17" />
+      <File FileName="Swin-Adventure\TestLocation.cs" Line="25" Column="25" />
+      <File FileName="Swin-Adventure\TestItem.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure\IHaveInventory.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure\Item.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure\TestPlayer.cs" Line="40" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
