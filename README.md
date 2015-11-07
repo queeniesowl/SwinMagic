@@ -1,0 +1,3 @@
+# SwinMagic
+CMD command
+ hello
