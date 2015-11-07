@@ -2,9 +2,9 @@ language: csharp
 solution: Swin-Adventure.sln
 
 install:
-  - nuget restore Swin-Adventure.sln
-  - nuget install NUnit -Version 2.6.4 -OutputDirectory testrunner
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
 script:
   - xbuild /p:Configuration=Release Swin-Adventure.sln
-  - mono ./packages/NUnit.2.6.4/lib/nunit.framework.dll  ./Swin-Adventure/bin/Debug/nunit.framework.dll
+  - nunit-console ./Swin-Adventure/bin/Debug/nunit.framework.dll
+  
   
