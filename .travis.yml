@@ -1,0 +1,4 @@
+language: csharp
+solution: Swin-Adventure.sln
+mono:
+  - 3.10.0
