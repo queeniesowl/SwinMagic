@@ -26,3 +26,10 @@ D:\IT\SWIN\ICT\Sem 1\Object Oriented\Lab\CT03\Swin-Adventure\Swin-Adventure\bin\
 D:\IT\SWIN\ICT\Sem 1\Object Oriented\Lab\CT03\Swin-Adventure\Swin-Adventure\bin\Debug\Swin-Adventure.pdb
 D:\IT\SWIN\ICT\Sem 1\Object Oriented\Lab\CT03\Swin-Adventure\Swin-Adventure\bin\Debug\nunit.framework.dll
 D:\IT\SWIN\ICT\Sem 1\Object Oriented\Lab\CT03\Swin-Adventure\Swin-Adventure\bin\Debug\nunit.framework.xml
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\bin\Debug\Swin-Adventure.exe
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\bin\Debug\Swin-Adventure.pdb
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\bin\Debug\nunit.framework.dll
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\bin\Debug\nunit.framework.xml
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\obj\x86\Debug\Swin-Adventure.csprojResolveAssemblyReference.cache
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\obj\x86\Debug\Swin-Adventure.exe
+D:\IT\SWIN\ICT\Sem2\DevelopmentProject1ToolsAndPractices\LabTask\swinAdv\SwinMagic\Swin-Adventure\obj\x86\Debug\Swin-Adventure.pdb
