@@ -3,8 +3,8 @@ solution: Swin-Adventure.sln
 
 install:
   - nuget restore Swin-Adventure.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+  - nuget install NUnit -Version 2.6.4 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release Swin-Adventure.sln
-  - mono ./packages/NUnit.Runners.2.6.4/tools/nunit-console.exe   ./Swin-Adventure/bin/Debug/nunit.framework.dll
+  - mono ./packages/NUnit.2.6.4/lib/nunit.framework.dll  ./Swin-Adventure/bin/Debug/nunit.framework.dll
   
