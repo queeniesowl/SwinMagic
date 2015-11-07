@@ -8,4 +8,3 @@ script:
   - xbuild /p:Configuration=Release Swin-Adventure.sln
   - mono ./packages/NUnit.2.6.4/lib/nunit.framework.dll
   
-  
